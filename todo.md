@@ -59,3 +59,5 @@
 - [x] Seed `Trollz1004/llc-crosslisting-os` from the populated LLC Crosslisting OS workspace without touching the reusable template repository.
 - [x] Verify the private repository has a commit and excludes `.env`, tokens, cookies, local databases, and runtime logs.
 - [x] Update the local setup prompt so Raycast knows the repository is seeded and can clone it without deleting an existing valid workspace.
+- [x] Provide and validate a secure post-clone Hermes handoff prompt for the isolated ASUS mini PC, including repository identity checks, secret-safe configuration, approval-only marketplace testing, and Antigravity isolation.
+- [ ] Add the validated Hermes post-clone handoff prompt to the private repository and provide its direct GitHub URL.
